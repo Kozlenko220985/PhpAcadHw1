@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+main{
+	width: 960px;
+	font-family: 'Pacifico', cursive;
+}
+
+main,
+img{
+	margin: 0 auto;	
+}
+
+img{
+	display: block;
+}
+
+
+.leftLink,
+.rightLink{
+	width: 253px;
+	height: 795px;
+}
+
+.leftLink{
+	float: left;
+	background-image: url(../img/angels.jpg);
+	background-repeat-x: no-repeat;
+	background-position: 10px 170px;
+}
+
+.rightLink{
+	float: right;
+	background-image: url(../img/skeleton.jpg);
+	background-position: 54px 0px;
+	background-repeat-x: no-repeat;
+}
+
+.leftLink a,
+.rightLink a{
+	position: fixed;
+	top: 130px;
+	display: block;
+	text-decoration: none;
+	line-height: 100%;
+	font-size: 30px;
+}
+
+.leftLink a{
+	left: 260px;	
+	color: #d0c9e2;
+}
+
+.rightLink a{
+	right: 270px;
+	color: #841417;
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+main{
+	width: 960px;
+	margin: 0 auto;
+	background: url(../img/angels.jpg) repeat-x 32px -62px,
+			     url(../img/angels.jpg) repeat-x 32px 838px;
+	font-family: 'Pacifico', cursive;
+}
+
+h3{
+	margin: 0 auto;
+	padding-top: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.whiteSideArticle,
+.darkSideArticle{
+	line-height: 24px;
+	font-size: 17px;
+	
+}
+
+.whiteSideArticle{
+	padding: 100px;
+	padding-top: 37px;
+}
+
+
+.whiteSideArticle>span{
+	margin-left: 52px;
+}

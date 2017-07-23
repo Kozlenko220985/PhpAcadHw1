@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+main{
+	width: 960px;
+	background: url(../img/skeleton.jpg) repeat-x 13px 0px,
+	          url(../img/skeleton.jpg) repeat-x 32px 450px;
+	font-family: 'Pacifico', cursive;
+	height: 650px;
+}
+
+main,
+h3{
+	margin: 0px auto;
+}
+
+h3{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 141px;
+}
+
+
+.darkSideArticle{
+	line-height: 24px;
+	font-size: 17px;
+	
+}
+
+
+.darkSideArticle{
+	padding: 100px;
+	padding-top: 37px;
+}
+
+
+.darkSideArticle>span{
+	margin-left: 52px;
+}
+
+
+.dSideLower{
+	font-size: 10px;
+}
