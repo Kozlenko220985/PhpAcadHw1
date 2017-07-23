@@ -25,15 +25,15 @@ img{
 .leftLink{
 	float: left;
 	background-image: url(../img/angels.jpg);
-	background-repeat-x: no-repeat;
-	background-position: 10px 170px;
+	background-position: 25px 126px;
+	background-repeat: no-repeat;
 }
 
 .rightLink{
 	float: right;
 	background-image: url(../img/skeleton.jpg);
-	background-position: 54px 0px;
-	background-repeat-x: no-repeat;
+	background-position: 67px 158px;
+	background-repeat: no-repeat;
 }
 
 .leftLink a,
