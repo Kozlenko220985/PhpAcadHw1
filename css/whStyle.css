@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 main{
-	width: 960px;
+	width: 920px;
 	margin: 0 auto;
-	background: url(../img/angels.jpg) repeat-x 32px -62px,
-			     url(../img/angels.jpg) repeat-x 32px 838px;
+	background: url(../img/angels.jpg) repeat-x 16px -62px,
+	          url(../img/angels.jpg) repeat-x 15px 878px;
 	font-family: 'Pacifico', cursive;
 }
 
