@@ -3,6 +3,7 @@
 
 main{
 	width: 960px;
+	box-shadow: 0px 5px 39px 6px rgba(77,25,77,1);
 	font-family: 'Pacifico', cursive;
 }
 
