@@ -56,3 +56,15 @@ img{
 	right: 270px;
 	color: #841417;
 }
+
+.centralPhoto{
+	margin-top: 160px;
+	width: 454px;
+    float: left;
+}	
+
+.centralPhoto>a{
+	display: block;
+	text-decoration: none;
+	height: 280px;
+}
