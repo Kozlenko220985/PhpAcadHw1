@@ -3,7 +3,7 @@
 main{
 	width: 920px;
 	background: url(../img/skeleton.jpg) repeat-x 0 0,
-	             url(../img/skeleton.jpg) repeat-x 0 450px;
+	                url(../img/skeleton.jpg) repeat-x 0 500px;
 	font-family: 'Pacifico', cursive;
 	height: 650px;
 }

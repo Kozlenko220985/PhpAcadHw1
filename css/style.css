@@ -48,12 +48,19 @@ img{
 }
 
 .leftLink a{
-	left: 260px;	
+	left: 250px;	
 	color: #d0c9e2;
 }
 
+.leftLink a:hover,
+.rightLink a:hover{
+	color: #D0C3C3;
+}
+
+
+
 .rightLink a{
-	right: 270px;
+	right: 258px;
 	color: #841417;
 }
 
